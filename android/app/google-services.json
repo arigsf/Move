@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1044070361155",
+    "project_id": "move-e517a",
+    "storage_bucket": "move-e517a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044070361155:android:7dc780e620af1b38b10cf6",
+        "android_client_info": {
+          "package_name": "br.com.Ari.move"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044070361155-ptp9hds4e9k82pumi69rbvjkaduj78bl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxDX7HCYn3kFFvh_09LNFWFg9z-hYUKA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044070361155-ptp9hds4e9k82pumi69rbvjkaduj78bl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1044070361155-ktcnp8oi1j35mjl0kojda30lu14edksd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.Ari.move"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
