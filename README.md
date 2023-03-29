@@ -1,16 +1,3 @@
-# move
+# Move
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+É cada vez mais importante a necessidade de ter uma vida equilibrada frente às novas tecnologias e aos péssimos hábitos de consumo. Nesse sentido, o Move é um aplicativo que estimula a prática de atividade física e a manutenção de uma vida saudável, por meio da apresentação de espaços ao ar livre e privados e de profissionais.
